@@ -8,3 +8,5 @@ try:
 except ValueError:
     print("Please enter a valid number.")
     exit()
+# Simple Study Hours Tracker Program
+# This program asks for daily study hours, calculates weekly hours, and prints the result.
